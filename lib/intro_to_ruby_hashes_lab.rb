@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  my_hash[:address]
+  { :favorite_color => "red"}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+    # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
 
