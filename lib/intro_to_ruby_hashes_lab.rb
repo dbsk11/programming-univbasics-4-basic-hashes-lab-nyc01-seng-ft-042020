@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash[0]
+  my_hash[:address]
 end
 
 def pioneer
